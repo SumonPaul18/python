@@ -13,6 +13,6 @@
 - [dash-bootstrap-components](https://dash-bootstrap-components.opensource.faculty.ai/docs/components/nav/)
 - [Plotly-Dash](https://github.com/DashBookProject/Plotly-Dash)
 - [advanced Navbar using Dash bootstrap component](https://www.youtube.com/watch?v=4tyyTWkC-fc)
-- []()
+- [EASIEST way to insert a NAVIGATION into your Streamlit app](https://www.youtube.com/watch?v=hEPoto5xp3k)
 
 
