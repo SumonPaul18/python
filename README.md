@@ -12,7 +12,7 @@
 - [Dash-by-Plotly](https://github.com/Coding-with-Adam/Dash-by-Plotly/tree/master/Bootstrap/Side-Bar)
 - [dash-bootstrap-components](https://dash-bootstrap-components.opensource.faculty.ai/docs/components/nav/)
 - [Plotly-Dash](https://github.com/DashBookProject/Plotly-Dash)
-- []()
+- [advanced Navbar using Dash bootstrap component](https://www.youtube.com/watch?v=4tyyTWkC-fc)
 - []()
 
 
