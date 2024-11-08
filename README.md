@@ -2,7 +2,7 @@
 
 #### Web Framework
 1. [Flask](https://github.com/SumonPaul18/flask-python/tree/main)
-
+2. [Stremlit](https://streamlit.io/)
 ---
 #### Reference:
 - [Python Tutorial `Youtube`](https://www.youtube.com/playlist?list=PLJJcOjd3n1ZciR86Tc0y1Z2b2J1Nr9bAB)
