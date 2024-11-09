@@ -8,6 +8,7 @@
 5. [Streamlit - Palylist - KGPTalkie](https://www.youtube.com/@KGPTalkie)
 6. [Dash Python-Charming Data](https://www.youtube.com/@CharmingData/playlists)
 7. Admin Dashboard with Streamlit - https://www.youtube.com/watch?v=DPkg4NinXUY
+8. Streamlit-Playlist-PYDH - https://www.youtube.com/playlist?list=PL2VXyKi-KpYtZzm1K8UKnnBzsOCtekhKq
 ---
 #### Reference:
 - [Python Tutorial `Youtube`](https://www.youtube.com/playlist?list=PLJJcOjd3n1ZciR86Tc0y1Z2b2J1Nr9bAB)
