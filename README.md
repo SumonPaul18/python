@@ -10,6 +10,7 @@
 7. Admin Dashboard with Streamlit - https://www.youtube.com/watch?v=DPkg4NinXUY
 8. Streamlit-Playlist-PYDH - https://www.youtube.com/playlist?list=PL2VXyKi-KpYtZzm1K8UKnnBzsOCtekhKq
 9. https://plainenglish.io/blog/integrating-flask-and-streamlit
+10. [How I Added Google Auth To a Streamlit App (It Didn't Go Well)](https://www.youtube.com/watch?v=0M4K53XBsjo)
 ---
 #### Reference:
 - [Python Tutorial `Youtube`](https://www.youtube.com/playlist?list=PLJJcOjd3n1ZciR86Tc0y1Z2b2J1Nr9bAB)
