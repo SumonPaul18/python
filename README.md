@@ -4,7 +4,7 @@
 1. [Flask](https://github.com/SumonPaul18/flask-python/tree/main)
 2. [Stremlit](https://streamlit.io/)
 3. [Google OAuth + Streamlit application. Part - 6](https://www.youtube.com/watch?v=WKnnHbS104A)
-4. [Streamlit Tutorials](https://www.youtube.com/playlist?list=PL7QI8ORyVSCaejt2LICRQtOTwmPiwKO2n)
+4. [Streamlit Tutorials- Coding Is Fun](https://www.youtube.com/playlist?list=PL7QI8ORyVSCaejt2LICRQtOTwmPiwKO2n)
 5. [Streamlit - Palylist - KGPTalkie](https://www.youtube.com/@KGPTalkie)
 6. [Dash Python-Charming Data](https://www.youtube.com/@CharmingData/playlists)
 7. Admin Dashboard with Streamlit - https://www.youtube.com/watch?v=DPkg4NinXUY
