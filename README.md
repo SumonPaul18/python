@@ -5,6 +5,8 @@
 2. [Stremlit](https://streamlit.io/)
 3. [Google OAuth + Streamlit application. Part - 6](https://www.youtube.com/watch?v=WKnnHbS104A)
 4. [Streamlit Tutorials](https://www.youtube.com/playlist?list=PL7QI8ORyVSCaejt2LICRQtOTwmPiwKO2n)
+5. [Streamlit - Palylist - KGPTalkie](https://www.youtube.com/@KGPTalkie)
+6. [Dash Python-Charming Data](https://www.youtube.com/@CharmingData/playlists)
 ---
 #### Reference:
 - [Python Tutorial `Youtube`](https://www.youtube.com/playlist?list=PLJJcOjd3n1ZciR86Tc0y1Z2b2J1Nr9bAB)
